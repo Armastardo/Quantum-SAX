@@ -3050,6 +3050,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 263.017 152.273 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 00b647aa-4568-48e5-bf4a-b141db4fb746)
+    (property "Reference" "H11" (at 266.573 151.003 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 265.938 152.273 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 263.017 152.273 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 263.017 152.273 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H11") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 218.567 54.229 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 02d43a96-4ff8-4852-b9c7-d0cc0189c5e0)
@@ -3080,6 +3104,30 @@
       (project "Quantum-SAX"
         (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
           (reference "#PWR037") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 244.094 147.701 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 03f47e36-6cd9-4ec0-bd25-11003e353d14)
+    (property "Reference" "H6" (at 247.65 146.431 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 247.015 147.701 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 244.094 147.701 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 244.094 147.701 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H6") (unit 1)
         )
       )
     )
@@ -3709,7 +3757,7 @@
     (property "Datasheet" "~" (at 171.577 87.63 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C130880" (at 171.577 87.63 0)
+    (property "LCSC" "C8598" (at 171.577 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dfda6808-8334-40ba-8eef-d5801ef24b9a))
@@ -3883,6 +3931,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 281.432 157.099 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 325016f3-dfee-4f03-8d8f-bacc9a8ca389)
+    (property "Reference" "H16" (at 284.988 155.829 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 284.353 157.099 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 281.432 157.099 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 281.432 157.099 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H16") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 264.033 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 36691f0e-28b5-4d94-8fe2-dba911f97784)
@@ -3974,6 +4046,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 263.017 147.701 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 3f039bfc-faf1-4e9e-89da-9d9e4af60893)
+    (property "Reference" "H10" (at 266.573 146.431 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 265.938 147.701 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 263.017 147.701 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 263.017 147.701 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H10") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Power_Protection:USBLC6-2SC6") (at 117.602 90.805 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 452a2163-031c-40a2-ae08-3865e780265f)
@@ -4009,6 +4105,30 @@
       (project "Quantum-SAX"
         (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
           (reference "U2") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 244.094 143.002 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 477a2114-9002-4a21-b8d3-3af03cdf9746)
+    (property "Reference" "H5" (at 247.65 141.732 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 247.015 143.002 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 244.094 143.002 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 244.094 143.002 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H5") (unit 1)
         )
       )
     )
@@ -5035,6 +5155,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 281.432 147.828 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 7b43c2ef-8e25-49c7-aa25-8c4d33a0cfb8)
+    (property "Reference" "H14" (at 284.988 146.558 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 284.353 147.828 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 281.432 147.828 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 281.432 147.828 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H14") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 163.9824 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7c175ff5-d8fc-4646-847d-5a7f78ffa0fd)
@@ -5386,7 +5530,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 109.347 134.62 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 93229393-8309-4627-8a89-827b93866cf9)
     (property "Reference" "SW1" (at 109.347 127.7325 0)
       (effects (font (size 1.27 1.27)))
@@ -5539,6 +5683,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 263.017 143.002 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 9f9ec15c-59e8-47bb-8d0f-3f2804ba2b21)
+    (property "Reference" "H9" (at 266.573 141.732 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 265.938 143.002 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 263.017 143.002 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 263.017 143.002 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H9") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 229.362 39.624 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a17c7d98-3bfe-4e0b-8b89-d4b558e0870c)
@@ -5586,6 +5754,30 @@
       (project "Quantum-SAX"
         (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
           (reference "CH16") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 281.432 152.4 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid a3d11152-6474-43e6-b8fe-314c2dd8a264)
+    (property "Reference" "H15" (at 284.988 151.13 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 284.353 152.4 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 281.432 152.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 281.432 152.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H15") (unit 1)
         )
       )
     )
@@ -5831,6 +6023,30 @@
       (project "Quantum-SAX"
         (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
           (reference "CH19") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 281.432 143.129 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid b9466309-338f-46ad-a86d-49d95d710cd9)
+    (property "Reference" "H13" (at 284.988 141.859 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 284.353 143.129 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 281.432 143.129 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 281.432 143.129 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H13") (unit 1)
         )
       )
     )
@@ -6790,6 +7006,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 244.094 156.972 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid ddbba40a-5aaf-4f1a-8b60-9b1b64f693ee)
+    (property "Reference" "H8" (at 247.65 155.702 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 247.015 156.972 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 244.094 156.972 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 244.094 156.972 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H8") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 263.017 32.639 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ddee0ca4-a1ac-4657-b8bc-69437842e4d8)
@@ -6914,7 +7154,7 @@
     (property "Datasheet" "~" (at 209.677 107.95 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C130880" (at 209.677 107.95 0)
+    (property "LCSC" "C8598" (at 209.677 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0c856fef-c919-4a96-b59c-3b8e0cfe14b4))
@@ -7012,6 +7252,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 263.017 156.972 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid e83ad90f-2158-4ded-9cf3-51389bdb6fbc)
+    (property "Reference" "H12" (at 266.573 155.702 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 265.938 156.972 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 263.017 156.972 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 263.017 156.972 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H12") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 268.732 120.015 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid ed8842cf-243a-469a-a11a-42e1261f43a5)
@@ -7031,6 +7295,30 @@
       (project "Quantum-SAX"
         (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
           (reference "H3") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 244.094 152.273 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid efc66b1a-8be5-4596-8f67-d3e5d1696824)
+    (property "Reference" "H7" (at 247.65 151.003 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Value" "MountingHole" (at 247.015 152.273 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 244.094 152.273 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 244.094 152.273 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Quantum-SAX"
+        (path "/e45afedb-1c45-49ac-b735-4ee1539da376"
+          (reference "H7") (unit 1)
         )
       )
     )
